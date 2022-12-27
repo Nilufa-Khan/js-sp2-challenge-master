@@ -4,6 +4,7 @@ let menu = [
         'name': 'Coke',
         'price': 1.5
     },
+
     {
         'category': 'Starters',
         'name': 'Garlic Bread',
